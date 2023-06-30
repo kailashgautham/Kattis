@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
+void tornbygge(){
     int n;cin>>n;
     int a;
     int b=0;
@@ -14,4 +14,4 @@ int main(){
         }
     }
     cout<<x;
-}Ï
+}

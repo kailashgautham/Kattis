@@ -10,4 +10,4 @@ add_executable(Kattis
         numberfun.cpp
         symmetricorder.cpp
         thelastproblem.cpp
-        tornbygge.cpp)
+        tornbygge.cpp bits/stdc++.h main.cpp functions.h easiest.cpp fiftyshades.cpp jobexpenses.cpp nodup.cpp)

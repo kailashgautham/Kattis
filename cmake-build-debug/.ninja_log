@@ -1,0 +1,20 @@
+# ninja log v5
+11	901	1688111308249696339	CMakeFiles/Kattis.dir/humancannonball2.cpp.o	a564ca58dd0c3ff3
+10	627	1688112814454794374	CMakeFiles/Kattis.dir/numberfun.cpp.o	be673d72c1bb3fa5
+12	914	1688111308263217852	CMakeFiles/Kattis.dir/symmetricorder.cpp.o	34a242056d5aee32
+15	46	1688112880545408494	CMakeFiles/Kattis.dir/main.cpp.o	1045c1cce7ea9ace
+11	628	1688112814454916790	CMakeFiles/Kattis.dir/easiest.cpp.o	7ec02330d032020e
+11	566	1688112895191154465	CMakeFiles/Kattis.dir/jobexpenses.cpp.o	8e8a7db0de27172e
+11	631	1688112814460620509	CMakeFiles/Kattis.dir/fiftyshades.cpp.o	8570c986658dd6e4
+12	903	1688111308252020792	CMakeFiles/Kattis.dir/thelastproblem.cpp.o	82d3eddaa1cb651f
+12	896	1688111308245239431	CMakeFiles/Kattis.dir/tornbygge.cpp.o	13001e5744acbb13
+566	611	1688112895238895994	Kattis	5c7ba48e511a0f4f
+11	329	1688113278974762394	CMakeFiles/Kattis.dir/main.cpp.o	1045c1cce7ea9ace
+12	853	1688113279496683876	CMakeFiles/Kattis.dir/jobexpenses.cpp.o	8e8a7db0de27172e
+11	855	1688113279498605157	CMakeFiles/Kattis.dir/easiest.cpp.o	7ec02330d032020e
+10	865	1688113279509611847	CMakeFiles/Kattis.dir/numberfun.cpp.o	be673d72c1bb3fa5
+11	869	1688113279514728777	CMakeFiles/Kattis.dir/fiftyshades.cpp.o	8570c986658dd6e4
+12	916	1688113279561478105	CMakeFiles/Kattis.dir/nodup.cpp.o	64c051fe002e92a4
+916	983	1688113279631692263	Kattis	c0d36cd50b754e67
+9	608	1688113332919099573	CMakeFiles/Kattis.dir/nodup.cpp.o	64c051fe002e92a4
+608	654	1688113332968239721	Kattis	c0d36cd50b754e67

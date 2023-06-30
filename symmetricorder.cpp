@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
+void symmetricorder(){
     vector<string> v;
     int n;
     string s;

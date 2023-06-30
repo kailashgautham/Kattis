@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
+void humancannonball2(){
     int n;cin>>n;
     float v,t,x,h1,h2;
     for(int i=0;i<n;i++){
