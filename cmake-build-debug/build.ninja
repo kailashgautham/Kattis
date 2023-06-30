@@ -119,6 +119,13 @@ build CMakeFiles/Kattis.dir/nodup.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kaila
   OBJECT_DIR = CMakeFiles/Kattis.dir
   OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
 
+build CMakeFiles/Kattis.dir/grading.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/grading.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/grading.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Kattis
@@ -127,7 +134,7 @@ build CMakeFiles/Kattis.dir/nodup.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kaila
 #############################################
 # Link the executable Kattis
 
-build Kattis: CXX_EXECUTABLE_LINKER__Kattis_Debug CMakeFiles/Kattis.dir/humancannonball2.cpp.o CMakeFiles/Kattis.dir/numberfun.cpp.o CMakeFiles/Kattis.dir/symmetricorder.cpp.o CMakeFiles/Kattis.dir/thelastproblem.cpp.o CMakeFiles/Kattis.dir/tornbygge.cpp.o CMakeFiles/Kattis.dir/main.cpp.o CMakeFiles/Kattis.dir/easiest.cpp.o CMakeFiles/Kattis.dir/fiftyshades.cpp.o CMakeFiles/Kattis.dir/jobexpenses.cpp.o CMakeFiles/Kattis.dir/nodup.cpp.o
+build Kattis: CXX_EXECUTABLE_LINKER__Kattis_Debug CMakeFiles/Kattis.dir/humancannonball2.cpp.o CMakeFiles/Kattis.dir/numberfun.cpp.o CMakeFiles/Kattis.dir/symmetricorder.cpp.o CMakeFiles/Kattis.dir/thelastproblem.cpp.o CMakeFiles/Kattis.dir/tornbygge.cpp.o CMakeFiles/Kattis.dir/main.cpp.o CMakeFiles/Kattis.dir/easiest.cpp.o CMakeFiles/Kattis.dir/fiftyshades.cpp.o CMakeFiles/Kattis.dir/jobexpenses.cpp.o CMakeFiles/Kattis.dir/nodup.cpp.o CMakeFiles/Kattis.dir/grading.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Kattis.dir
   POST_BUILD = :

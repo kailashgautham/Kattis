@@ -8,5 +8,6 @@ int main() {
     //    tornbygge();
     //    fiftyshades();
     //    jobexpenses();
-    nodup();
+    //    nodup();
+    grading();
 }
