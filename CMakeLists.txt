@@ -10,4 +10,4 @@ add_executable(Kattis
         numberfun.cpp
         symmetricorder.cpp
         thelastproblem.cpp
-        tornbygge.cpp bits/stdc++.h main.cpp functions.h easiest.cpp fiftyshades.cpp jobexpenses.cpp nodup.cpp grading.cpp)
+        tornbygge.cpp bits/stdc++.h main.cpp functions.h easiest.cpp fiftyshades.cpp jobexpenses.cpp nodup.cpp grading.cpp logicfunctions.cpp ladder.cpp vectorfunctions.cpp vectorfunctions.h starbattles1.cpp simplicity.cpp simon.cpp triangle.cpp santaklas.cpp sanic.cpp rhyming.cpp different.cpp)
