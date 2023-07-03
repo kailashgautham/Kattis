@@ -18,3 +18,7 @@ void triangle();
 void santaklas();
 int sanic();
 int rhyming();
+int goodmorning();
+int sretan();
+int thanos();
+int variablenames();

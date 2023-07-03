@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
+int different(){
     unsigned long long n,m;
     while(cin>>n){
         cin>>m;

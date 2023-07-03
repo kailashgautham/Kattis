@@ -14,5 +14,5 @@ int main() {
 //    starbattles1();
 //    simon();
 //    triangle();
-triangle();
+    variablenames();
 }
