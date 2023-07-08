@@ -22,3 +22,8 @@ int goodmorning();
 int sretan();
 int thanos();
 int variablenames();
+int ninetynine();
+int comm();
+int skocimis();
+int skener();
+int sevenwonders();
