@@ -11,4 +11,5 @@ int sevenwonders(){
         if(c=='G') g+=1;
     }
     cout<<(pow(t,2)+pow(c1,2)+pow(g,2)+7*min(min(t,c1),g));
+    return 0;
 }

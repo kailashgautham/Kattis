@@ -27,3 +27,6 @@ int comm();
 int skocimis();
 int skener();
 int sevenwonders();
+int securedoors();
+int rectanglearea();
+int racingalphabet();

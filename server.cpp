@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
+int server(){
     int n,t;
     cin>>n>>t;
     int to=0;
