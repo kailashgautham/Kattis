@@ -294,6 +294,41 @@ build CMakeFiles/Kattis.dir/racingalphabet.cpp.o: CXX_COMPILER__Kattis_Debug /Us
   OBJECT_DIR = CMakeFiles/Kattis.dir
   OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
 
+build CMakeFiles/Kattis.dir/prsteni.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/prsteni.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/prsteni.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
+build CMakeFiles/Kattis.dir/lostlineup.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/lostlineup.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/lostlineup.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
+build CMakeFiles/Kattis.dir/mixedfractions.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/mixedfractions.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/mixedfractions.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
+build CMakeFiles/Kattis.dir/meowth.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/meowth.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/meowth.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
+build CMakeFiles/Kattis.dir/kornislav.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/kornislav.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/kornislav.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Kattis
@@ -302,7 +337,7 @@ build CMakeFiles/Kattis.dir/racingalphabet.cpp.o: CXX_COMPILER__Kattis_Debug /Us
 #############################################
 # Link the executable Kattis
 
-build Kattis: CXX_EXECUTABLE_LINKER__Kattis_Debug CMakeFiles/Kattis.dir/humancannonball2.cpp.o CMakeFiles/Kattis.dir/numberfun.cpp.o CMakeFiles/Kattis.dir/symmetricorder.cpp.o CMakeFiles/Kattis.dir/thelastproblem.cpp.o CMakeFiles/Kattis.dir/tornbygge.cpp.o CMakeFiles/Kattis.dir/main.cpp.o CMakeFiles/Kattis.dir/easiest.cpp.o CMakeFiles/Kattis.dir/fiftyshades.cpp.o CMakeFiles/Kattis.dir/jobexpenses.cpp.o CMakeFiles/Kattis.dir/nodup.cpp.o CMakeFiles/Kattis.dir/grading.cpp.o CMakeFiles/Kattis.dir/logicfunctions.cpp.o CMakeFiles/Kattis.dir/ladder.cpp.o CMakeFiles/Kattis.dir/vectorfunctions.cpp.o CMakeFiles/Kattis.dir/starbattles1.cpp.o CMakeFiles/Kattis.dir/simplicity.cpp.o CMakeFiles/Kattis.dir/simon.cpp.o CMakeFiles/Kattis.dir/triangle.cpp.o CMakeFiles/Kattis.dir/santaklas.cpp.o CMakeFiles/Kattis.dir/sanic.cpp.o CMakeFiles/Kattis.dir/rhyming.cpp.o CMakeFiles/Kattis.dir/different.cpp.o CMakeFiles/Kattis.dir/goodmorning.cpp.o CMakeFiles/Kattis.dir/sretan.cpp.o CMakeFiles/Kattis.dir/thanos.cpp.o CMakeFiles/Kattis.dir/variablenames.cpp.o CMakeFiles/Kattis.dir/ninetynine.cpp.o CMakeFiles/Kattis.dir/communication.cpp.o CMakeFiles/Kattis.dir/skocimis.cpp.o CMakeFiles/Kattis.dir/skener.cpp.o CMakeFiles/Kattis.dir/sevenwonders.cpp.o CMakeFiles/Kattis.dir/server.cpp.o CMakeFiles/Kattis.dir/securedoors.cpp.o CMakeFiles/Kattis.dir/rectanglearea.cpp.o CMakeFiles/Kattis.dir/racingalphabet.cpp.o
+build Kattis: CXX_EXECUTABLE_LINKER__Kattis_Debug CMakeFiles/Kattis.dir/humancannonball2.cpp.o CMakeFiles/Kattis.dir/numberfun.cpp.o CMakeFiles/Kattis.dir/symmetricorder.cpp.o CMakeFiles/Kattis.dir/thelastproblem.cpp.o CMakeFiles/Kattis.dir/tornbygge.cpp.o CMakeFiles/Kattis.dir/main.cpp.o CMakeFiles/Kattis.dir/easiest.cpp.o CMakeFiles/Kattis.dir/fiftyshades.cpp.o CMakeFiles/Kattis.dir/jobexpenses.cpp.o CMakeFiles/Kattis.dir/nodup.cpp.o CMakeFiles/Kattis.dir/grading.cpp.o CMakeFiles/Kattis.dir/logicfunctions.cpp.o CMakeFiles/Kattis.dir/ladder.cpp.o CMakeFiles/Kattis.dir/vectorfunctions.cpp.o CMakeFiles/Kattis.dir/starbattles1.cpp.o CMakeFiles/Kattis.dir/simplicity.cpp.o CMakeFiles/Kattis.dir/simon.cpp.o CMakeFiles/Kattis.dir/triangle.cpp.o CMakeFiles/Kattis.dir/santaklas.cpp.o CMakeFiles/Kattis.dir/sanic.cpp.o CMakeFiles/Kattis.dir/rhyming.cpp.o CMakeFiles/Kattis.dir/different.cpp.o CMakeFiles/Kattis.dir/goodmorning.cpp.o CMakeFiles/Kattis.dir/sretan.cpp.o CMakeFiles/Kattis.dir/thanos.cpp.o CMakeFiles/Kattis.dir/variablenames.cpp.o CMakeFiles/Kattis.dir/ninetynine.cpp.o CMakeFiles/Kattis.dir/communication.cpp.o CMakeFiles/Kattis.dir/skocimis.cpp.o CMakeFiles/Kattis.dir/skener.cpp.o CMakeFiles/Kattis.dir/sevenwonders.cpp.o CMakeFiles/Kattis.dir/server.cpp.o CMakeFiles/Kattis.dir/securedoors.cpp.o CMakeFiles/Kattis.dir/rectanglearea.cpp.o CMakeFiles/Kattis.dir/racingalphabet.cpp.o CMakeFiles/Kattis.dir/prsteni.cpp.o CMakeFiles/Kattis.dir/lostlineup.cpp.o CMakeFiles/Kattis.dir/mixedfractions.cpp.o CMakeFiles/Kattis.dir/meowth.cpp.o CMakeFiles/Kattis.dir/kornislav.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Kattis.dir
   POST_BUILD = :

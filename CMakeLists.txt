@@ -10,4 +10,4 @@ add_executable(Kattis
         numberfun.cpp
         symmetricorder.cpp
         thelastproblem.cpp
-        tornbygge.cpp bits/stdc++.h main.cpp functions.h easiest.cpp fiftyshades.cpp jobexpenses.cpp nodup.cpp grading.cpp logicfunctions.cpp ladder.cpp vectorfunctions.cpp vectorfunctions.h starbattles1.cpp simplicity.cpp simon.cpp triangle.cpp santaklas.cpp sanic.cpp rhyming.cpp different.cpp goodmorning.cpp sretan.cpp thanos.cpp variablenames.cpp ninetynine.cpp communication.cpp skocimis.cpp skener.cpp sevenwonders.cpp server.cpp securedoors.cpp rectanglearea.cpp racingalphabet.cpp)
+        tornbygge.cpp bits/stdc++.h main.cpp functions.h easiest.cpp fiftyshades.cpp jobexpenses.cpp nodup.cpp grading.cpp logicfunctions.cpp ladder.cpp vectorfunctions.cpp vectorfunctions.h starbattles1.cpp simplicity.cpp simon.cpp triangle.cpp santaklas.cpp sanic.cpp rhyming.cpp different.cpp goodmorning.cpp sretan.cpp thanos.cpp variablenames.cpp ninetynine.cpp communication.cpp skocimis.cpp skener.cpp sevenwonders.cpp server.cpp securedoors.cpp rectanglearea.cpp racingalphabet.cpp prsteni.cpp lostlineup.cpp mixedfractions.cpp meowth.cpp kornislav.cpp)

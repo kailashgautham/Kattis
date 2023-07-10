@@ -100,7 +100,12 @@
 				34,
 				35,
 				36,
-				37
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
 			]
 		}
 	],
@@ -167,7 +172,12 @@
 				34,
 				35,
 				36,
-				37
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
 			]
 		},
 		{
@@ -405,6 +415,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "racingalphabet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "prsteni.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lostlineup.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "mixedfractions.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "meowth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "kornislav.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

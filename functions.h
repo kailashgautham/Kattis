@@ -30,3 +30,8 @@ int sevenwonders();
 int securedoors();
 int rectanglearea();
 int racingalphabet();
+int prsteni();
+int lostlineup();
+int mixedfractions();
+int kornislav();
+int meowth();
