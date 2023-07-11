@@ -6,8 +6,12 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Kattis
-        humancannonball2.cpp
-        numberfun.cpp
-        symmetricorder.cpp
-        thelastproblem.cpp
-        tornbygge.cpp bits/stdc++.h main.cpp functions.h easiest.cpp fiftyshades.cpp jobexpenses.cpp nodup.cpp grading.cpp logicfunctions.cpp ladder.cpp vectorfunctions.cpp vectorfunctions.h starbattles1.cpp simplicity.cpp simon.cpp triangle.cpp santaklas.cpp sanic.cpp rhyming.cpp different.cpp goodmorning.cpp sretan.cpp thanos.cpp variablenames.cpp ninetynine.cpp communication.cpp skocimis.cpp skener.cpp sevenwonders.cpp server.cpp securedoors.cpp rectanglearea.cpp racingalphabet.cpp prsteni.cpp lostlineup.cpp mixedfractions.cpp meowth.cpp kornislav.cpp)
+        completed/humancannonball2.cpp
+        completed/numberfun.cpp
+        completed/symmetricorder.cpp
+        completed/thelastproblem.cpp
+        completed/tornbygge.cpp
+        bits/stdc++.h
+        main.cpp
+        functions.h
+        completed/easiest.cpp completed/fiftyshades.cpp completed/jobexpenses.cpp completed/nodup.cpp completed/grading.cpp completed/logicfunctions.cpp completed/ladder.cpp completed/vectorfunctions.cpp completed/vectorfunctions.h completed/starbattles1.cpp completed/simplicity.cpp completed/simon.cpp completed/triangle.cpp completed/santaklas.cpp completed/sanic.cpp completed/rhyming.cpp completed/different.cpp completed/goodmorning.cpp completed/sretan.cpp completed/thanos.cpp completed/variablenames.cpp completed/ninetynine.cpp completed/communication.cpp completed/skocimis.cpp completed/skener.cpp completed/sevenwonders.cpp completed/server.cpp completed/securedoors.cpp completed/rectanglearea.cpp completed/racingalphabet.cpp completed/prsteni.cpp completed/lostlineup.cpp completed/mixedfractions.cpp completed/meowth.cpp completed/kornislav.cpp moderatepace.cpp forcedchoice.cpp helpaphd.cpp heirsdilemma.cpp harshad.cpp)

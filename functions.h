@@ -35,3 +35,6 @@ int lostlineup();
 int mixedfractions();
 int kornislav();
 int meowth();
+int helpaphd();
+int heirsdilemma();
+int harshad();
