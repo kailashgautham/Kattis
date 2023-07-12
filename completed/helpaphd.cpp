@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 int helpaphd(){
     int n;cin>>n;
@@ -14,4 +14,5 @@ int helpaphd(){
         }
 
     }
+    return 0;
 }

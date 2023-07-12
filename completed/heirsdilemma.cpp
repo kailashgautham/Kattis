@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 bool divisible(int x){
     int tmp=0;
@@ -26,6 +26,7 @@ int heirsdilemma(){
         if(divisible(i)&&differentDigits(i)) ans+=1;
     }
     cout<<ans;
+    return 0;
 }
 
 

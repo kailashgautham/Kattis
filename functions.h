@@ -38,3 +38,7 @@ int meowth();
 int helpaphd();
 int heirsdilemma();
 int harshad();
+int hangman();
+int circle();
+int eligibility();
+int drunkvigenere();

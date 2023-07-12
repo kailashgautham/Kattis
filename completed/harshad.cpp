@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 bool divisibleH(int n){
     int tmp=n;
@@ -18,5 +18,6 @@ int harshad(){
         }
         n++;
     }
+    return 0;
 }
 
