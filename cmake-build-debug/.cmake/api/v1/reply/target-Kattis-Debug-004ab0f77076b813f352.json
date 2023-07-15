@@ -115,7 +115,15 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60
 			]
 		}
 	],
@@ -197,7 +205,15 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60
 			]
 		},
 		{
@@ -500,31 +516,79 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "hangman.cpp",
+			"path" : "completed/hangman.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "hangingout.cpp",
+			"path" : "completed/hangingout.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "estimatingtheareaofacircle.cpp",
+			"path" : "completed/estimatingtheareaofacircle.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "eligibility.cpp",
+			"path" : "completed/eligibility.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "drunkvigenere.cpp",
+			"path" : "completed/drunkvigenere.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/janitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/sortofsorting.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/slatkisi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/skyisland.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/semafori.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/savingforretirement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "savingdaylight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rle.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

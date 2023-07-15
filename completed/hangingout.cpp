@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 int hangingout() {
     int n,t;cin>>n>>t;
