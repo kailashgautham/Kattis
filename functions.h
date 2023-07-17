@@ -48,3 +48,7 @@ int skyisland();
 int semafori();
 int savingdaylight();
 int rle();
+int voting();
+int popular();
+int polynomial();
+int peragram();
