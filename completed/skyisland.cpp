@@ -1,20 +1,32 @@
-#include"bits/stdc++.h"
+#include<bits/stdc++.h>
 using namespace std;
-int skyisland() {
-    int n,m;cin>>n>>m;
-    int a=0;
-    unordered_map<int, unordered_map<int, int>> mappo;
-    int x,y;
+int skyisland(){
+    int n,m;
+    cin>>n>>m;
+    int a,b;
+    unordered_map<int,bool> vertices;
+    unordered_map<int,vector<int>> bridges;
     for(int i=0;i<m;i++){
-        cin>>x>>y;
-        if (mappo.find(x) == mappo.end()) {
-            unordered_map<int, int> newmap;
-            mappo[x] = newmap;
-            mappo[x][y] = 1;
+        cin>>a>>b;
+        if(bridges.find(a) == bridges.end()) {
+            vector<int> v;
+            bridges[a] = v;
         }
-        if (mappo.find(y) != mappo.end() && mappo[y][x] == 1) continue;
-        else a += 1;
+        bridges[a].push_back(b);
     }
-    if (a >= n - 1) cout<<"YES";
+    vector<int> visited;
+    int count=0;
+    visited.push_back(1);
+    while(!visited.empty()) {
+        int curr = visited[visited.size() - 1];
+        visited.erase(visited.begin() + visited.size() - 1);
+        if (!vertices[curr]) count += 1;
+        vertices[curr] = true;
+        if(bridges[curr].size() > 0) {
+            visited.push_back(bridges[curr][0]);
+            bridges[curr].erase(bridges[curr].begin());
+        }
+    }
+    if(count == n) cout<<"YES";
     else cout<<"NO";
 }
