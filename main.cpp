@@ -14,6 +14,6 @@ int main() {
 //    starbattles1();
 //    simon();
 //    triangle();
-    skyisland();
+    oktalni();
 
 }

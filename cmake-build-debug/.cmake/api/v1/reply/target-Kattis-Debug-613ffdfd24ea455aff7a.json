@@ -127,7 +127,13 @@
 				61,
 				62,
 				63,
-				64
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70
 			]
 		}
 	],
@@ -221,7 +227,13 @@
 				61,
 				62,
 				63,
-				64
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70
 			]
 		},
 		{
@@ -621,6 +633,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "completed/peragram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "parking.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "peanuts.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "overdraft.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "okviri.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "okvir.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "oktalni.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

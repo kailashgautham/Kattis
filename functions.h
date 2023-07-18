@@ -52,3 +52,8 @@ int voting();
 int popular();
 int polynomial();
 int peragram();
+int parking();
+int peanuts();
+int okviri();
+int okvir();
+int oktalni();
