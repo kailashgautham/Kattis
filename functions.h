@@ -63,3 +63,8 @@ int kafkaesque();
 int imperial();
 int growlinggears();
 int greedilyincreasingsubsequence();
+int locust();
+int friday();
+int fontan();
+int flipflow();
+int dance();

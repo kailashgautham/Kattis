@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kailashgautham/OneDrive/Documents/GitHub/Kattis
+# Install script for directory: /Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

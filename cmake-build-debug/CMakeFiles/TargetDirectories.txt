@@ -1,3 +1,3 @@
-/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/Kattis.dir
-/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kailashgautham/OneDrive/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/Kattis.dir
+/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
