@@ -55,7 +55,11 @@
 				}
 			],
 			"type" : "INTERNAL",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/cache-v2-73a7247a998b66ede622.json
 			"value" : "/Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug"
+========
+			"value" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug"
+>>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/cache-v2-67c507750d5915aa9333.json
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +483,11 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/cache-v2-73a7247a998b66ede622.json
 			"value" : "/Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/pkgRedirects"
+========
+			"value" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug/CMakeFiles/pkgRedirects"
+>>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/cache-v2-67c507750d5915aa9333.json
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +547,11 @@
 				}
 			],
 			"type" : "INTERNAL",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/cache-v2-73a7247a998b66ede622.json
 			"value" : "/Users/kailashgautham/Documents/GitHub/Kattis"
+========
+			"value" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis"
+>>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/cache-v2-67c507750d5915aa9333.json
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1123,11 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/cache-v2-73a7247a998b66ede622.json
 			"value" : "/Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug"
+========
+			"value" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug"
+>>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/cache-v2-67c507750d5915aa9333.json
 		},
 		{
 			"name" : "Kattis_IS_TOP_LEVEL",
@@ -1135,7 +1151,11 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/cache-v2-73a7247a998b66ede622.json
 			"value" : "/Users/kailashgautham/Documents/GitHub/Kattis"
+========
+			"value" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis"
+>>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/cache-v2-67c507750d5915aa9333.json
 		}
 	],
 	"kind" : "cache",
