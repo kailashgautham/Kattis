@@ -80,7 +80,10 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17,
+				18,
+				19
 			]
 		}
 	],
@@ -135,7 +138,10 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17,
+				18,
+				19
 			]
 		}
 	],
@@ -149,7 +155,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
+			"path" : "completed/main.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
@@ -160,85 +166,103 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q1.cpp",
+			"path" : "completed/q1.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q2.cpp",
+			"path" : "completed/q2.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q3.cpp",
+			"path" : "completed/q3.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q4.cpp",
+			"path" : "completed/q4.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q5.cpp",
+			"path" : "completed/q5.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q6.cpp",
+			"path" : "completed/q6.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q7.cpp",
+			"path" : "completed/q7.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "q8.cpp",
+			"path" : "completed/q8.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "egypt.cpp",
+			"path" : "completed/egypt.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "countdoubles.cpp",
+			"path" : "completed/countdoubles.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "square.cpp",
+			"path" : "completed/square.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "boolean.cpp",
+			"path" : "completed/boolean.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "ascii.cpp",
+			"path" : "completed/ascii.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "messy.cpp",
+			"path" : "completed/messy.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/raggedright.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/mia.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "yoda.cpp",
 			"sourceGroupIndex" : 1
 		}
 	],

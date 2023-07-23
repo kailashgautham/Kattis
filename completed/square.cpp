@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 int square(){
     float x1,y1,x2,y2,x3,y3;

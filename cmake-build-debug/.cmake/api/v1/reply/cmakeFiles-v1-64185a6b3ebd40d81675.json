@@ -150,13 +150,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-64185a6b3ebd40d81675.json
 		"build" : "/Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug",
 		"source" : "/Users/kailashgautham/Documents/GitHub/Kattis"
-========
-		"build" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug",
-		"source" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis"
->>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f08adc1accaa531b79f9.json
 	},
 	"version" : 
 	{

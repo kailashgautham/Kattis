@@ -39,11 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Kattis::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1dbac5d427afd8ddaee2.json
-					"jsonFile" : "target-Kattis-Debug-d5d2ed29a7d2533fe570.json",
-========
-					"jsonFile" : "target-Kattis-Debug-c764afd7a382a32abd99.json",
->>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4e5fdc37627cc429a2e3.json
+					"jsonFile" : "target-Kattis-Debug-6eca90f4baa5cfd8bdf6.json",
 					"name" : "Kattis",
 					"projectIndex" : 0
 				}
@@ -53,13 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1dbac5d427afd8ddaee2.json
 		"build" : "/Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug",
 		"source" : "/Users/kailashgautham/Documents/GitHub/Kattis"
-========
-		"build" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis/cmake-build-debug",
-		"source" : "/Users/kailashgautham/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/Kattis"
->>>>>>>> cdf3ef7a1708f3a3a92270188f94bc732b3c16a3:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4e5fdc37627cc429a2e3.json
 	},
 	"version" : 
 	{

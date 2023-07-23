@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 int flipflow(){
     int t,s,n,c;cin>>t>>s>>n;

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include"bits/stdc++.h"
 using namespace std;
 
 void checkBelow(vector<vector<char>>& grid, int i, int j) {

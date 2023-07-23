@@ -2,4 +2,3 @@
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug
-CMake File API: /Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug: failed to load from '/Users/kailashgautham/Documents/GitHub/Kattis/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1dbac5d427afd8ddaee2.json'
