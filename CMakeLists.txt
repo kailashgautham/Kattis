@@ -9,4 +9,4 @@ add_executable(Kattis
         bits/stdc++.h
         completed/main.cpp
         functions.h
-        )
+        completed/warehouse.cpp completed/addition.cpp completed/variablearithmetic.cpp completed/trollhunt.cpp completed/tictactoe.cpp completed/tictacstate.cpp completed/password.cpp completed/attendance.cpp)
