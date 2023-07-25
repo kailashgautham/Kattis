@@ -74,7 +74,11 @@
 				7,
 				8,
 				9,
-				10
+				10,
+				11,
+				12,
+				13,
+				14
 			]
 		}
 	],
@@ -123,7 +127,11 @@
 				7,
 				8,
 				9,
-				10
+				10,
+				11,
+				12,
+				13,
+				14
 			]
 		}
 	],
@@ -142,7 +150,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "functions.h",
+			"path" : "completed/functions.h",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -178,19 +186,43 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "tictacstate.cpp",
+			"path" : "completed/tictacstate.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "password.cpp",
+			"path" : "completed/password.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "attendance.cpp",
+			"path" : "completed/attendance.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "completed/parentgap.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "notamused.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "sticky.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "dog&gopher.cpp",
 			"sourceGroupIndex" : 1
 		}
 	],
