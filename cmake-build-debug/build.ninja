@@ -119,22 +119,50 @@ build CMakeFiles/Kattis.dir/completed/parentgap.cpp.o: CXX_COMPILER__Kattis_Debu
   OBJECT_DIR = CMakeFiles/Kattis.dir
   OBJECT_FILE_DIR = CMakeFiles/Kattis.dir/completed
 
-build CMakeFiles/Kattis.dir/notamused.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/notamused.cpp || cmake_object_order_depends_target_Kattis
-  DEP_FILE = CMakeFiles/Kattis.dir/notamused.cpp.o.d
+build CMakeFiles/Kattis.dir/completed/notamused.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/completed/notamused.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/completed/notamused.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir/completed
+
+build CMakeFiles/Kattis.dir/completed/sticky.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/completed/sticky.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/completed/sticky.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir/completed
+
+build CMakeFiles/Kattis.dir/completed/dog&gopher.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/completed/dog&gopher.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = "CMakeFiles/Kattis.dir/completed/dog&gopher.cpp.o.d"
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir/completed
+
+build CMakeFiles/Kattis.dir/cursethedarkness.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/cursethedarkness.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/cursethedarkness.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
   INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
   OBJECT_DIR = CMakeFiles/Kattis.dir
   OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
 
-build CMakeFiles/Kattis.dir/sticky.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/sticky.cpp || cmake_object_order_depends_target_Kattis
-  DEP_FILE = CMakeFiles/Kattis.dir/sticky.cpp.o.d
+build CMakeFiles/Kattis.dir/schedule.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/schedule.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/schedule.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
   INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
   OBJECT_DIR = CMakeFiles/Kattis.dir
   OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
 
-build CMakeFiles/Kattis.dir/dog&gopher.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/dog&gopher.cpp || cmake_object_order_depends_target_Kattis
-  DEP_FILE = "CMakeFiles/Kattis.dir/dog&gopher.cpp.o.d"
+build CMakeFiles/Kattis.dir/bits.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/bits.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/bits.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
+  INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
+  OBJECT_DIR = CMakeFiles/Kattis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kattis.dir
+
+build CMakeFiles/Kattis.dir/peasoupandpancakes.cpp.o: CXX_COMPILER__Kattis_Debug /Users/kailashgautham/Documents/GitHub/Kattis/peasoupandpancakes.cpp || cmake_object_order_depends_target_Kattis
+  DEP_FILE = CMakeFiles/Kattis.dir/peasoupandpancakes.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++14
   INCLUDES = -I/Users/kailashgautham/Documents/GitHub/Kattis/.
   OBJECT_DIR = CMakeFiles/Kattis.dir
@@ -148,7 +176,7 @@ build CMakeFiles/Kattis.dir/dog&gopher.cpp.o: CXX_COMPILER__Kattis_Debug /Users/
 #############################################
 # Link the executable Kattis
 
-build Kattis: CXX_EXECUTABLE_LINKER__Kattis_Debug CMakeFiles/Kattis.dir/completed/main.cpp.o CMakeFiles/Kattis.dir/completed/warehouse.cpp.o CMakeFiles/Kattis.dir/completed/addition.cpp.o CMakeFiles/Kattis.dir/completed/variablearithmetic.cpp.o CMakeFiles/Kattis.dir/completed/trollhunt.cpp.o CMakeFiles/Kattis.dir/completed/tictactoe.cpp.o CMakeFiles/Kattis.dir/completed/tictacstate.cpp.o CMakeFiles/Kattis.dir/completed/password.cpp.o CMakeFiles/Kattis.dir/completed/attendance.cpp.o CMakeFiles/Kattis.dir/completed/parentgap.cpp.o CMakeFiles/Kattis.dir/notamused.cpp.o CMakeFiles/Kattis.dir/sticky.cpp.o CMakeFiles/Kattis.dir/dog&gopher.cpp.o
+build Kattis: CXX_EXECUTABLE_LINKER__Kattis_Debug CMakeFiles/Kattis.dir/completed/main.cpp.o CMakeFiles/Kattis.dir/completed/warehouse.cpp.o CMakeFiles/Kattis.dir/completed/addition.cpp.o CMakeFiles/Kattis.dir/completed/variablearithmetic.cpp.o CMakeFiles/Kattis.dir/completed/trollhunt.cpp.o CMakeFiles/Kattis.dir/completed/tictactoe.cpp.o CMakeFiles/Kattis.dir/completed/tictacstate.cpp.o CMakeFiles/Kattis.dir/completed/password.cpp.o CMakeFiles/Kattis.dir/completed/attendance.cpp.o CMakeFiles/Kattis.dir/completed/parentgap.cpp.o CMakeFiles/Kattis.dir/completed/notamused.cpp.o CMakeFiles/Kattis.dir/completed/sticky.cpp.o CMakeFiles/Kattis.dir/completed/dog&gopher.cpp.o CMakeFiles/Kattis.dir/cursethedarkness.cpp.o CMakeFiles/Kattis.dir/schedule.cpp.o CMakeFiles/Kattis.dir/bits.cpp.o CMakeFiles/Kattis.dir/peasoupandpancakes.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Kattis.dir
   POST_BUILD = :
