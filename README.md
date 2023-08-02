@@ -9,6 +9,8 @@ Another update: As of 19 July 2023, I hit 300.7 points! It's racking up very fas
 
 Yet another update (this is getting monotonous): I am at 331.1 points. Also, I hit a rating of 907 in Codeforces. I did it through Div 3 / 4 competitions, but that's fine, we all start somewhere.
 
+Update: It is 3 August 2023. I am at 460 points. I'll hit 500 tomorrow.
+
 **Kattis Profile:** https://open.kattis.com/users/kailashgautham/
 
 **CodeForces Profile:** https://codeforces.com/profile/gkailash
