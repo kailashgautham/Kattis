@@ -16,3 +16,5 @@ Update again: On 3 August 2023, I officially hit 500 points. Apparently to have 
 **Kattis Profile:** https://open.kattis.com/users/kailashgautham/
 
 **CodeForces Profile:** https://codeforces.com/profile/gkailash
+
+Final update (for now): Due to other commitments, I'm not continuing with Kattis for now. Might get back to it later :)
